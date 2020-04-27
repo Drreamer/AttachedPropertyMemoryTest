@@ -1,0 +1,30 @@
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\AttachedPropertyLeaks\AttachedPropertyLeaks\obj\Debug\AttachedPropertyLeaks.csprojAssemblyReference.cache
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\AttachedPropertyLeaks\AttachedPropertyLeaks\obj\Debug\MainWindow.g.cs
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\AttachedPropertyLeaks\AttachedPropertyLeaks\obj\Debug\App.g.cs
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\AttachedPropertyLeaks\AttachedPropertyLeaks\obj\Debug\AttachedPropertyLeaks_MarkupCompile.cache
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\AttachedPropertyLeaks\AttachedPropertyLeaks\obj\Debug\AttachedPropertyLeaks_MarkupCompile.lref
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\AttachedPropertyLeaks\AttachedPropertyLeaks\bin\Debug\AttachedPropertyLeaks.exe.config
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\AttachedPropertyLeaks\AttachedPropertyLeaks\bin\Debug\AttachedPropertyLeaks.exe
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\AttachedPropertyLeaks\AttachedPropertyLeaks\bin\Debug\AttachedPropertyLeaks.pdb
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\AttachedPropertyLeaks\AttachedPropertyLeaks\obj\Debug\MainWindow.baml
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\AttachedPropertyLeaks\AttachedPropertyLeaks\obj\Debug\AttachedPropertyLeaks.g.resources
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\AttachedPropertyLeaks\AttachedPropertyLeaks\obj\Debug\AttachedPropertyLeaks.Properties.Resources.resources
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\AttachedPropertyLeaks\AttachedPropertyLeaks\obj\Debug\AttachedPropertyLeaks.csproj.GenerateResource.cache
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\AttachedPropertyLeaks\AttachedPropertyLeaks\obj\Debug\AttachedPropertyLeaks.csproj.CoreCompileInputs.cache
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\AttachedPropertyLeaks\AttachedPropertyLeaks\obj\Debug\AttachedPropertyLeaks.exe
+C:\Users\KonstantinK\Documents\Visual Studio 2019\Projects\AttachedPropertyLeaks\AttachedPropertyLeaks\obj\Debug\AttachedPropertyLeaks.pdb
+C:\Users\KonstantinK\Documents\GIT\AttachedPropertyMemoryTest\AttachedPropertyLeaks\bin\Debug\AttachedPropertyLeaks.exe.config
+C:\Users\KonstantinK\Documents\GIT\AttachedPropertyMemoryTest\AttachedPropertyLeaks\bin\Debug\AttachedPropertyLeaks.exe
+C:\Users\KonstantinK\Documents\GIT\AttachedPropertyMemoryTest\AttachedPropertyLeaks\bin\Debug\AttachedPropertyLeaks.pdb
+C:\Users\KonstantinK\Documents\GIT\AttachedPropertyMemoryTest\AttachedPropertyLeaks\obj\Debug\AttachedPropertyLeaks.csprojAssemblyReference.cache
+C:\Users\KonstantinK\Documents\GIT\AttachedPropertyMemoryTest\AttachedPropertyLeaks\obj\Debug\MainWindow.g.cs
+C:\Users\KonstantinK\Documents\GIT\AttachedPropertyMemoryTest\AttachedPropertyLeaks\obj\Debug\App.g.cs
+C:\Users\KonstantinK\Documents\GIT\AttachedPropertyMemoryTest\AttachedPropertyLeaks\obj\Debug\AttachedPropertyLeaks_MarkupCompile.cache
+C:\Users\KonstantinK\Documents\GIT\AttachedPropertyMemoryTest\AttachedPropertyLeaks\obj\Debug\AttachedPropertyLeaks_MarkupCompile.lref
+C:\Users\KonstantinK\Documents\GIT\AttachedPropertyMemoryTest\AttachedPropertyLeaks\obj\Debug\MainWindow.baml
+C:\Users\KonstantinK\Documents\GIT\AttachedPropertyMemoryTest\AttachedPropertyLeaks\obj\Debug\AttachedPropertyLeaks.g.resources
+C:\Users\KonstantinK\Documents\GIT\AttachedPropertyMemoryTest\AttachedPropertyLeaks\obj\Debug\AttachedPropertyLeaks.Properties.Resources.resources
+C:\Users\KonstantinK\Documents\GIT\AttachedPropertyMemoryTest\AttachedPropertyLeaks\obj\Debug\AttachedPropertyLeaks.csproj.GenerateResource.cache
+C:\Users\KonstantinK\Documents\GIT\AttachedPropertyMemoryTest\AttachedPropertyLeaks\obj\Debug\AttachedPropertyLeaks.csproj.CoreCompileInputs.cache
+C:\Users\KonstantinK\Documents\GIT\AttachedPropertyMemoryTest\AttachedPropertyLeaks\obj\Debug\AttachedPropertyLeaks.exe
+C:\Users\KonstantinK\Documents\GIT\AttachedPropertyMemoryTest\AttachedPropertyLeaks\obj\Debug\AttachedPropertyLeaks.pdb
